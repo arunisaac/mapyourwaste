@@ -1,0 +1,51 @@
+osmtracker buttons preset created for the Map Your Waste initiative
+organized by the Free Software Movement, Karnataka (FSMK).
+
+https://wiki.openstreetmap.org/wiki/India/Events/Map_your_waste
+
+HOW TO USE
+
+Copy mapyourwaste.xml and all png files into the layouts directory
+of your osmtracker folder on your SD card (usually /sdcard/osmtracker/layouts/)
+
+You can find more detailed instructions at
+
+https://github.com/nguillaumin/osmtracker-android/wiki/Custom-buttons-layouts#layout-files
+
+LICENSE
+
+All content (layout xml and clipart icons) is 100% public domain.
+
+Credits for the clipart icons:
+
+sewage-line.png
+https://openclipart.org/detail/169437/water-pollution
+Moini
+
+sewer-manhole.png
+https://openclipart.org/detail/190056/manhole-cover
+algotruneman
+
+telecom-manhole.png
+https://openclipart.org/detail/33919/ethernet-cable
+bnielsen
+
+public-toilet.png
+https://openclipart.org/detail/17470/toilet-signs
+wariat
+
+gents-toilet.png
+https://openclipart.org/detail/75637/men-bathroom
+Ehecatl1138
+
+ladies-toilet.png
+https://openclipart.org/detail/75643/women-bathroom
+Ehecatl1138
+
+waste-basket.png
+https://openclipart.org/detail/68/trash-can
+Andy
+
+waste-disposal.png
+https://openclipart.org/detail/219458/trash-container
+skurian25
