@@ -5,7 +5,11 @@
 (defun export-to-xml ()
   (interactive)
   (with-temp-file output-file
-    (insert (xmlgen xml-doc))))
+    (nxml-mode)
+    (insert (xmlgen xml-doc))
+    (goto-char (point-min))
+    (replace-regexp ">+<" ">\n<")
+    (indent-region (point-min) (point-max))))
 
 ; The actual xml document in xmlgen compatible sexp format
 (setq xml-doc
