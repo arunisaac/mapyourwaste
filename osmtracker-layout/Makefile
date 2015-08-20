@@ -1,5 +1,5 @@
 ZIP=zip
-OUTPUT_ARCHIVE=mapyourwaste-osmtracker-layout.zip
+OUTPUT_ARCHIVE=../mapyourwaste-osmtracker-layout.zip
 LAYOUT_XML=$(wildcard *.xml)
 README=README
 ICONS=$(wildcard *.png)
